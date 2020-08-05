@@ -7,3 +7,5 @@ Creating a new branch is quick & simple.
 
 
 分支策略管理
+
+tag v1.0
